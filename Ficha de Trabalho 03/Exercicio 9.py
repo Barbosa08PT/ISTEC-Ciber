@@ -1,7 +1,7 @@
 num = int(input("Introduza um numero: "))
 
-soma=0
-cme = 0
+soma=1
+cme = -1
 while num != -1:
     num = int(input("Introduza um numero: "))
     soma = soma + num
